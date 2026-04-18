@@ -9,7 +9,7 @@ We perform the following categorical data analysis.
 Step 1: Reading Data
 pd.read_csv()-Loads data from a CSV file into a DataFrame.
 - Used to import the dataset for analysis.
-Steo 2: Frequency Count
+Step 2: Frequency Count
 value_counts()-Counts occurrences of each category in a column.
 - Helps understand how often each category appears.
 Example: Number of students in each grade.
